@@ -17,7 +17,7 @@ This project is a bulk mailer application that allows users to send customized m
 
 To run this project on your local machine, follow these steps:
 
-1. Clone the repository using `git clone https://github.com/vishnusatheeshpulickal/MailFlow.git`
+1. Clone the repository using `git clone https://https://github.com/Laukik-Vashistha/Bulky_Mail_Sender`
 2. Navigate to the project backend directory using `cd backend`
 3. Install dependencies using `npm install`
 4. Create a `.env` file in the root directory and add the following variables:
@@ -61,12 +61,10 @@ To use the application, follow these steps:
 
 ## Screenshots
 
-![App Screenshot](https://res.cloudinary.com/vishnusatheesh/image/upload/v1680800361/mailFlow-1_w23ved.png)
+![App Screenshot](http://localhost:3001/mailer)
 
-![App Screenshot](https://res.cloudinary.com/vishnusatheesh/image/upload/v1680800360/mailFlow-2_am1vu4.png)
-
-![App Screenshot](https://res.cloudinary.com/vishnusatheesh/image/upload/v1680800360/mailFlow-3_mpemnp.png)
+![App Screenshot](http://localhost:3001/groups)
 
 ## Support
 
-If you have any questions or comments about this project, feel free to reach out to me via email at [vishnu satheesh](mailto:vishnusatheeshdev@gmail.com).
+If you have any questions or comments about this project, feel free to reach out to me via email at [Laukik Vashistha](mailto:laukik283202@gmail.com).
