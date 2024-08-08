@@ -59,12 +59,6 @@ To use the application, follow these steps:
 - Axios
 - Bootstrap
 
-## Screenshots
-
-![App Screenshot](http://localhost:3001/mailer)
-
-![App Screenshot](http://localhost:3001/groups)
-
 ## Support
 
 If you have any questions or comments about this project, feel free to reach out to me via email at [Laukik Vashistha](mailto:laukik283202@gmail.com).
