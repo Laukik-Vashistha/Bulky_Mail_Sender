@@ -32,6 +32,11 @@ To run this project on your local machine, follow these steps:
 7. Install dependencies using `npm install`
 8. Start the development server using `npm start`
 
+## ScreenShots :
+
+![project-img2](https://github.com/user-attachments/assets/781557fd-7115-43c6-b110-75408849af05)
+
+
 ## Features
 
 - Users can sign up and log in to their account.
